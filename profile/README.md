@@ -4,8 +4,8 @@ Welcome to **Simple Organization Name**! We are a team of passionate developers 
 
 ## Meet the Team
 
-- **DiggerDwarf** - Code explorer and problem solver
-- **OJddJO** - Architect of clean and scalable solutions
+- **DiggerDwarf**
+- **OJddJO**
 
 ## What We Do
 
