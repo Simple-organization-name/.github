@@ -1,6 +1,6 @@
 # Simple Organization Name
 
-Welcome to **Simple Organization Name**! We are a team of passionate developers dedicated to building simple softwares.
+Welcome to **Simple Organization Name**! We are a team of passionate developers dedicated to building "simple" software.
 
 ## Meet the Team
 
